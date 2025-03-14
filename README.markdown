@@ -23,7 +23,7 @@ The tree may start looking like this:
 And transform it into a sorted doubly linked list that looks like this:
 
 ```
-1 <--> 2 <--> 3 <--> 4 <--> 5 <--> 6 <--> 7 <--> 8 <--> 9 <--> 10
+1 <--> 3 <--> 4 <--> 5 <--> 6 <--> 7 <--> 8 <--> 9 <--> 10
 ```
 
 Do this in-place, without allocating new elements for each node.
